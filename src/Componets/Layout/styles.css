@@ -1,0 +1,12 @@
+.layout {
+  text-align: center;
+  background-color: #caccc9;
+  max-width: 300px;
+  padding: 10px;
+  margin: 10px;
+  display: block;
+  margin: auto;
+}
+.button {
+  margin: 10px;
+}
